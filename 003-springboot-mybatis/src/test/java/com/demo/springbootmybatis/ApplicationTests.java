@@ -26,12 +26,6 @@ class ApplicationTests {
         System.out.println(list);
     }
 
-    @Test
-    void addUser() {
-            User user = new User();
-            user.setUserId(11);
-            user.setUserName("a");
-            userDao.addUser(user);
-    }
+
 
 }

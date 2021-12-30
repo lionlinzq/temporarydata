@@ -18,11 +18,11 @@ public interface UserDao {
     @Select("select * from user")
     List<User> getAll();
 
-    @Insert("insert into user (userId,userName) values(#{userId},#{userName})")
-    int addUser(User user);
+    @Results(id = "userResult",value = {
+            @Result(id = true,property = "userId",column = "user_id"),
+            @Result(property = "userName",column = "user_name")
+    })
 
-    @Update("update user set user_name=#{username} where user_id = #{user_id}")
-    int updateUser(User user);
 
     //删除用户
     @Delete("delete from user where user_id = #{user_id}")
