@@ -8,7 +8,7 @@
 
 [快速幂](https://github.com/lionlinzq/springboot/blob/master/other/快速幂.md)
 
-[Linux IO模式及 select、poll、epoll详解](https://github.com/lionlinzq/temporarydata/blob/master/other/[Linux IO模式及 select、poll、epoll详解.md)
+[Linux IO模式及 select、poll、epoll详解](https://github.com/lionlinzq/temporarydata/blob/master/other/Linux IO模式及 select、poll、epoll详解.md)
 
 [详解二分查找算法](https://github.com/lionlinzq/temporarydata/blob/master/other/详解二分查找算法.md)
 
