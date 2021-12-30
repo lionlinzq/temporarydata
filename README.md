@@ -8,7 +8,5 @@
 
 [快速幂](https://github.com/lionlinzq/springboot/blob/master/other/快速幂.md)
 
-(https://github.com/lionlinzq/temporarydata/blob/master/other/Linux%20IO%E6%A8%A1%E5%BC%8F%E5%8F%8A%20select%E3%80%81poll%E3%80%81epoll%E8%AF%A6%E8%A7%A3.md)
-
 [详解二分查找算法](https://github.com/lionlinzq/temporarydata/blob/master/other/详解二分查找算法.md)
 
